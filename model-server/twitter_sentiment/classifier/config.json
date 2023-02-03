@@ -1,0 +1,10 @@
+{
+    "BERT_MODEL": "siebert/sentiment-roberta-large-english",
+    "PRE_TRAINED_MODEL": "assets/model_state_dict.bin",
+    "CLASS_NAMES": [
+        "negative",
+        "neutral",
+        "positive"
+    ],
+    "MAX_SEQUENCE_LEN": 160
+}

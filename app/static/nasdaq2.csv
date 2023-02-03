@@ -1,0 +1,201 @@
+,Symbol,Name,Last Sale,Net Change,% Change,Market Cap,Country,IPO Year,Volume,Sector,Industry
+21,AAPL,Apple Inc. Common Stock,$129.62,4.6,3.679%,2247266010800.0,United States,1980.0,87754715,Technology,Computer Manufacturing
+4769,MSFT,Microsoft Corporation Common Stock,$224.93,2.62,1.179%,1676734644280.0,United States,1986.0,43613574,Technology,Computer Software: Prepackaged Software
+3190,GOOG,Alphabet Inc. Class C Capital Stock,$88.16,1.39,1.602%,1141054880000.0,United States,2004.0,26612628,Technology,Internet and Information Services
+3191,GOOGL,Alphabet Inc. Class A Common Stock,$87.34,1.14,1.323%,1130441620000.0,United States,2004.0,41381495,Technology,Internet and Information Services
+448,AMZN,Amazon.com Inc. Common Stock,$86.08,2.96,3.561%,876026536256.0,United States,1997.0,83303361,Consumer Discretionary,Catalog/Specialty Distribution
+1171,BRK/A,Berkshire Hathaway Inc.,$481955.00,8295.0,1.751%,708895078670.0,United States,,3880,,
+1172,BRK/B,Berkshire Hathaway Inc.,$318.69,5.79,1.85%,703129370824.0,United States,,3648810,,
+3948,JNJ,Johnson & Johnson Common Stock,$180.25,1.45,0.811%,471260670162.0,United States,,5705960,Health Care,Biotechnology: Pharmaceutical Preparations
+7402,V,Visa Inc.,$217.75,6.64,3.145%,461111590599.0,United States,,6829695,Consumer Discretionary,Business Services
+7328,UNH,UnitedHealth Group Incorporated Common Stock (DE),$490.00,0.04,0.008%,457831045770.0,United States,,4841278,Health Care,Medical Specialities
+7822,XOM,Exxon Mobil Corporation Common Stock,$110.53,1.32,1.209%,455194971823.0,United States,,16348131,Energy,Oil & Gas Production
+7201,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,$78.07,2.34,3.09%,404876953320.0,Taiwan,1997.0,13744129,Technology,Semiconductors
+3958,JPM,JP Morgan Chase & Co. Common Stock,$137.94,2.59,1.914%,404605608000.0,United States,,10029076,Finance,Major Banks
+7727,WMT,Walmart Inc. Common Stock,$146.78,3.51,2.45%,395836311926.0,United States,,7077269,Consumer Discretionary,Department/Specialty Retail Stores
+5155,NVDA,NVIDIA Corporation Common Stock,$148.59,5.94,4.164%,365531400000.0,United States,1999.0,40504362,Technology,Semiconductors
+5590,PG,Procter & Gamble Company (The) Common Stock,$153.92,3.58,2.381%,364743740999.0,United States,,7882208,Consumer Discretionary,Package Goods/Cosmetics
+7199,TSLA,Tesla Inc. Common Stock,$113.06,2.72,2.465%,357015491884.0,United States,2010.0,220911051,Consumer Discretionary,Auto Manufacturing
+4417,MA,Mastercard Incorporated Common Stock,$367.67,15.9,4.52%,353499915474.0,United States,2006.0,4432804,Consumer Discretionary,Business Services
+4298,LLY,Eli Lilly and Company Common Stock,$362.94,4.02,1.12%,344857567026.0,United States,,2131283,Health Care,Biotechnology: Pharmaceutical Preparations
+1938,CVX,Chevron Corporation Common Stock,$176.56,1.32,0.753%,341403221682.0,United States,,7191222,Energy,Integrated oil Companies
+3357,HD,Home Depot Inc. (The) Common Stock,$317.53,2.06,0.653%,323622137566.0,United States,,4022511,Consumer Discretionary,RETAIL: Building Materials
+5166,NVO,Novo Nordisk A/S Common Stock,$138.64,2.39,1.754%,311925598770.0,Denmark,,1154088,Health Care,Biotechnology: Pharmaceutical Preparations
+27,ABBV,AbbVie Inc. Common Stock,$166.55,3.06,1.872%,294540428607.0,United States,2012.0,5099112,Health Care,Other Pharmaceuticals
+4546,META,Meta Platforms Inc. Class A Common Stock,$130.02,3.08,2.426%,293236776871.0,United States,2012.0,27584498,Technology,Internet and Information Services
+4735,MRK,Merck & Company Inc. Common Stock (new),$114.84,1.2,1.056%,291164873654.0,United States,,8632267,Health Care,Biotechnology: Pharmaceutical Preparations
+5568,PFE,Pfizer Inc. Common Stock,$50.92,1.26,2.537%,285829976224.0,United States,,29635946,Health Care,Biotechnology: Pharmaceutical Preparations
+816,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,$107.40,2.82,2.697%,284345333750.0,China,2014.0,21072355,Consumer Discretionary,Business Services
+817,BAC,Bank of America Corporation Common Stock,$34.41,0.34,0.998%,276051893344.0,United States,,34068731,Finance,Major Banks
+4084,KO,Coca-Cola Company (The) Common Stock,$63.40,1.2,1.929%,274174140938.0,United States,,9989986,Consumer Staples,Beverages (Production/Distribution)
+5547,PEP,PepsiCo Inc. Common Stock,$181.10,4.0,2.259%,249503137750.0,United States,,3713163,Consumer Staples,Beverages (Production/Distribution)
+753,AVGO,Broadcom Inc. Common Stock,$588.43,33.41,6.02%,245896741360.0,United States,2009.0,3526101,Technology,Semiconductors
+636,ASML,ASML Holding N.V. New York Registry Shares,$595.85,30.53,5.40%,240208977669.0,Netherlands,1995.0,1025980,Technology,Industrial Machinery/Components
+5358,ORCL,Oracle Corporation Common Stock,$85.66,1.35,1.601%,230961031980.0,United States,1986.0,8641597,Technology,Computer Software: Prepackaged Software
+3020,GEN,Gen Digital Inc. Common Stock,$21.50,0.4,1.896%,224067799064.0,United States,,3234897,Technology,Computer Software: Prepackaged Software
+806,AZN,AstraZeneca PLC American Depositary Shares,$70.80,0.99,1.418%,219451684248.0,United Kingdom,,7341549,Health Care,Biotechnology: Pharmaceutical Preparations
+1750,COST,Costco Wholesale Corporation Common Stock,$482.87,32.68,7.259%,214263439613.0,United States,,5174491,Consumer Discretionary,Department/Specialty Retail Stores
+7096,TMO,Thermo Fisher Scientific Inc Common Stock,$535.00,-21.94,-3.939%,209824622995.0,United States,,2938188,Industrials,Biotechnology: Laboratory Analytical Instruments
+6459,SHEL,Royal Dutch Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ,$57.25,1.77,3.19%,200121026233.0,Netherlands,2022.0,5845518,Energy,Oil & Gas Production
+5170,NVS,Novartis AG Common Stock,$92.29,1.49,1.641%,198515790000.0,Switzerland,,1631250,Health Care,Biotechnology: Pharmaceutical Preparations
+1843,CSCO,Cisco Systems Inc. Common Stock (DE),$48.32,1.44,3.072%,198503540004.0,United States,1990.0,20823079,Telecommunications,Computer Communications Equipment
+4483,MCD,McDonald's Corporation Common Stock,$269.47,7.31,2.788%,197366266177.0,United States,,2855559,Consumer Discretionary,Restaurants
+46,ABT,Abbott Laboratories Common Stock,$112.33,1.53,1.381%,195855642370.0,United States,,3800373,Health Care,Medical/Dental Instruments
+5004,NKE,Nike Inc. Common Stock,$124.53,3.91,3.242%,193091608273.0,United States,,10080654,Consumer Discretionary,Shoe Manufacturing
+7085,TM,Toyota Motor Corporation Common Stock,$138.97,3.45,2.546%,189615426194.0,Japan,,164944,Consumer Discretionary,Auto Manufacturing
+7102,TMUS,T-Mobile US Inc. Common Stock,$148.57,4.09,2.831%,184843979688.0,United States,,6539579,Telecommunications,Telecommunications Equipment
+2082,DHR,Danaher Corporation Common Stock,$252.49,-2.74,-1.074%,183803302628.0,United States,,5839483,Health Care,Medical Specialities
+7614,VZ,Verizon Communications Inc. Common Stock,$42.19,0.49,1.175%,177190298089.0,United States,,26010388,Telecommunications,Telecommunications Equipment
+2093,DIS,Walt Disney Company (The) Common Stock,$93.92,2.0,2.176%,171271759513.0,United States,,9828145,Consumer Discretionary,Movies/Entertainment
+91,ACN,Accenture plc Class A Ordinary Shares (Ireland),$269.21,6.23,2.369%,169532343628.0,Ireland,2001.0,1587164,Technology,EDP Services
+983,BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),$66.04,2.71,4.279%,167123206195.0,Australia,,2820305,Basic Materials,Metal Mining
+4929,NEE,NextEra Energy Inc. Common Stock,$83.65,1.02,1.234%,166226239490.0,United States,,5235338,Utilities,Electric Utilities: Central
+1632,CMCSA,Comcast Corporation Class A Common Stock,$37.89,0.91,2.461%,163813955416.0,United States,,18780133,Consumer Discretionary,Telecommunications Equipment
+7670,WFC,Wells Fargo & Company Common Stock,$42.80,0.38,0.896%,163089010434.0,United States,,15247015,Finance,Major Banks
+5683,PM,Philip Morris International Inc Common Stock,$103.49,2.67,2.648%,160430436544.0,United States,,5815692,Health Care, Medicinal Chemicals and Botanical Products 
+7257,TXN,Texas Instruments Incorporated Common Stock,$175.16,8.23,4.93%,158970261074.0,United States,,6725941,Technology,Semiconductors
+6352,SCHW,Charles Schwab Corporation (The) Common Stock,$84.54,1.43,1.721%,157814146509.0,United States,,6462637,Finance,Investment Bankers/Brokers/Service
+4273,LIN,Linde plc Ordinary Share,$316.16,10.67,3.493%,155728003242.0,,2018.0,2538893,Industrials,Major Chemicals
+1095,BMY,Bristol-Myers Squibb Company Common Stock,$73.00,1.08,1.502%,155209705331.0,United States,,7311144,Health Care,Biotechnology: Pharmaceutical Preparations
+7341,UPS,United Parcel Service Inc. Common Stock,$178.95,5.11,2.939%,154777104374.0,United States,1999.0,3690149,Consumer Discretionary,Air Freight/Delivery Services
+122,ADBE,Adobe Inc. Common Stock,$332.75,4.31,1.312%,154695475000.0,United States,1986.0,2216579,Technology,Computer Software: Prepackaged Software
+7211,TTE,TotalEnergies SE,$61.83,0.72,1.178%,153359278260.0,France,,2221540,Energy,Oil & Gas Production
+6224,RTX,Raytheon Technologies Corporation Common Stock,$102.46,1.58,1.566%,150622427007.0,United States,,6411711,Industrials,Military/Government/Technical
+4747,MS,Morgan Stanley Common Stock,$87.56,1.64,1.909%,147985980728.0,United States,,5710882,Finance,Investment Bankers/Brokers/Service
+1745,COP,ConocoPhillips Common Stock,$118.23,1.46,1.25%,147322982133.0,United States,,4442319,Energy,Integrated oil Companies
+408,AMGN,Amgen Inc. Common Stock,$275.20,8.34,3.125%,146840997491.0,United States,1983.0,2887810,Health Care,Biotechnology: Pharmaceutical Preparations
+3454,HON,Honeywell International Inc. Common Stock,$210.27,5.8,2.837%,141369195723.0,United States,,4056383,Industrials,Consumer Electronics/Appliances
+1819,CRM,Salesforce Inc. Common Stock,$140.51,4.17,3.059%,140510000000.0,United States,2004.0,9145711,Technology,Computer Software: Prepackaged Software
+4966,NFLX,Netflix Inc. Common Stock,$315.55,5.85,1.889%,140426216882.0,United States,2002.0,8959839,Consumer Discretionary,Consumer Electronics/Video Chains
+6896,T,AT&T Inc.,$19.53,0.32,1.666%,139190310000.0,United States,,36050329,Consumer Discretionary,Telecommunications Equipment
+3498,HSBC,HSBC Holdings plc. Common Stock,$34.31,0.55,1.629%,137022707908.0,United Kingdom,,2431822,Finance,Savings Institutions
+6257,RY,Royal Bank Of Canada Common Stock,$96.98,2.18,2.30%,134110395788.0,Canada,,582750,,
+7332,UNP,Union Pacific Corporation Common Stock,$212.01,8.93,4.397%,130343917608.0,United States,,3375200,Industrials,Railroads
+3598,IBM,International Business Machines Corporation Common Stock,$143.70,2.59,1.835%,129922958363.0,United States,,3574042,Technology,EDP Services
+1340,CAT,Caterpillar Inc. Common Stock,$248.86,8.58,3.571%,129509072085.0,United States,,3945070,Industrials,Construction/Ag Equipment/Trucks
+5910,QCOM,QUALCOMM Incorporated Common Stock,$115.34,5.94,5.43%,129296140000.0,United States,1991.0,10259279,Technology,Computer peripheral equipment
+7313,UL,Unilever PLC Common Stock,$50.80,0.72,1.438%,128628141118.0,United Kingdom,,1648852,Consumer Discretionary,Package Goods/Cosmetics
+6297,SAP,SAP  SE ADS,$109.11,2.95,2.779%,127615056000.0,Germany,,821046,Technology,EDP Services
+2038,DE,Deere & Company Common Stock,$426.47,11.74,2.831%,127189242993.0,United States,,1042172,Industrials,Industrial Machinery/Components
+815,BA,Boeing Company (The) Common Stock,$213.00,8.01,3.908%,126944419896.0,United States,,11256435,Industrials,Aerospace
+3358,HDB,HDFC Bank Limited Common Stock,$67.40,0.44,0.657%,125291104541.0,India,2001.0,881483,Finance,Commercial Banks
+4308,LMT,Lockheed Martin Corporation Common Stock,$473.24,-3.83,-0.803%,124023882250.0,United States,,1969440,Industrials,Aerospace
+1237,BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),$61.09,0.85,1.411%,123355523409.0,Belgium,,953318,Consumer Staples,Beverages (Production/Distribution)
+6334,SBUX,Starbucks Corporation Common Stock,$106.69,2.26,2.164%,122458782000.0,United States,1992.0,9644109,Consumer Discretionary,Beverages - Non-Alcoholic
+4332,LOW,Lowe's Companies Inc. Common Stock,$200.97,0.2,0.10%,121527076498.0,United States,,3121509,Consumer Discretionary,RETAIL: Building Materials
+5517,PDD,Pinduoduo Inc. American Depositary Shares,$95.96,0.53,0.555%,121330448797.0,China,2018.0,9022081,Consumer Discretionary,Catalog/Specialty Distribution
+6640,SNY,Sanofi ADS,$48.14,0.39,0.817%,120741091286.0,France,,1964064,Health Care,Biotechnology: Pharmaceutical Preparations
+1934,CVS,CVS Health Corporation Common Stock,$91.60,1.15,1.271%,120359369139.0,United States,,8957732,Health Care,Managed Health Care
+6104,RIO,Rio Tinto Plc Common Stock,$74.07,2.12,2.946%,120056709481.0,Australia,2002.0,2810146,Basic Materials,Metal Mining
+3766,INTC,Intel Corporation Common Stock,$28.73,1.17,4.245%,118568710000.0,United States,,31788634,Technology,Semiconductors
+3249,GS,Goldman Sachs Group Inc. (The) Common Stock,$348.08,4.32,1.257%,117871927391.0,United States,1999.0,3097817,Finance,Investment Bankers/Brokers/Service
+6961,TD,Toronto Dominion Bank (The) Common Stock,$64.24,0.63,0.99%,116959763005.0,Canada,,2808585,,
+2375,ELV,Elevance Health Inc. Common Stock,$475.48,2.48,0.524%,113557738689.0,United States,,2329434,Health Care,Medical Specialities
+6683,SPGI,S&P Global Inc. Common Stock,$347.84,11.76,3.499%,113326272000.0,United States,,1780993,Finance,Advertising
+791,AXP,American Express Company Common Stock,$150.17,3.74,2.554%,112211933958.0,United States,,3077593,Finance,Finance: Consumer Services
+1056,BLK,BlackRock Inc. Common Stock,$738.00,36.76,5.242%,110844335826.0,United States,1999.0,1215691,Finance,Investment Bankers/Brokers/Service
+3085,GILD,Gilead Sciences Inc. Common Stock,$88.08,2.23,2.598%,110473797868.0,United States,1992.0,5939532,Health Care,Biotechnology: Pharmaceutical Preparations
+3771,INTU,Intuit Inc. Common Stock,$386.52,10.9,2.902%,108583266282.0,United States,1993.0,1312858,Technology,Computer Software: Prepackaged Software
+5658,PLD,Prologis Inc. Common Stock,$116.65,3.8,3.367%,107677116007.0,United States,,3996022,Real Estate,Real Estate Investment Trusts
+4513,MDT,Medtronic plc. Ordinary Shares,$80.86,0.83,1.037%,107558353021.0,United States,,5994450,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+1137,BP,BP p.l.c. Common Stock,$34.46,0.56,1.652%,104214454827.0,United Kingdom,,6855435,Energy,Integrated oil Companies
+403,AMD,Advanced Micro Devices Inc. Common Stock,$63.96,1.63,2.615%,104086263801.0,United States,,70161340,Technology,Semiconductors
+2355,EIX,Edison International Common Stock,$66.87,1.98,3.051%,102143837802.0,United States,,1591422,Utilities,Electric Utilities: Central
+438,AMT,American Tower Corporation (REIT) Common Stock,$218.50,6.37,3.003%,101734824256.0,United States,,1980390,Real Estate,Real Estate Investment Trusts
+2048,DEO,Diageo plc Common Stock,$178.92,1.58,0.891%,101479989094.0,United Kingdom,,416607,Consumer Staples,Beverages (Production/Distribution)
+3008,GE,General Electric Company Common Stock,$71.94,0.65,0.912%,100694988628.0,United States,,10389469,Technology,Consumer Electronics/Appliances
+3915,JD,JD.com Inc. American Depositary Shares,$64.30,-1.6,-2.428%,100661650000.0,China,2014.0,8492350,Consumer Discretionary,Catalog/Specialty Distribution
+6664,SONY,Sony Group Corporation American Depositary Shares ,$81.39,3.89,5.019%,100571961423.0,Japan,,896688,Consumer Staples,Consumer Electronics/Appliances
+142,ADP,Automatic Data Processing Inc. Common Stock,$240.16,6.53,2.795%,99625037003.0,United States,,1771737,Consumer Discretionary,Business Services
+2467,EQNR,Equinor ASA,$31.86,-0.43,-1.332%,99465080722.0,Norway,,5497934,Energy,Integrated oil Companies
+6884,SYK,Stryker Corporation Common Stock,$256.25,6.43,2.574%,96972669306.0,United States,,1402112,Health Care,Medical/Dental Instruments
+7068,TJX,TJX Companies Inc. (The) Common Stock,$82.72,2.07,2.567%,95583303205.0,United States,,4673075,Consumer Discretionary,Department/Specialty Retail Stores
+3843,ISRG,Intuitive Surgical Inc. Common Stock,$270.39,1.77,0.659%,95551653882.0,United States,2000.0,1659514,Health Care,Medical/Dental Instruments
+1344,CB,Chubb Limited  Common Stock,$228.86,5.3,2.371%,94988405708.0,Switzerland,,1815433,Finance,Property-Casualty Insurers
+2358,EL,Estee Lauder Companies Inc. (The) Common Stock,$263.81,2.64,1.011%,94130659986.0,United States,1995.0,1708500,Consumer Discretionary,Package Goods/Cosmetics
+4508,MDLZ,Mondelez International Inc. Class A Common Stock,$68.02,1.83,2.765%,92889370914.0,United States,,5845531,Consumer Staples,Meat/Poultry/Fish
+1531,CI,Cigna Corporation Common Stock,$302.68,-1.51,-0.496%,92541081731.0,United States,,3554030,Health Care,Medical Specialities
+1292,C,Citigroup Inc. Common Stock,$47.31,0.56,1.198%,91632508996.0,United States,,16736322,Finance,Major Banks
+1224,BTI,British American Tobacco  Industries p.l.c. Common Stock ADR,$40.69,0.52,1.294%,90977437507.0,United Kingdom,1998.0,2543948,Health Care, Medicinal Chemicals and Botanical Products 
+4823,MUFG,Mitsubishi UFJ Financial Group Inc. Common Stock,$6.94,0.08,1.166%,89269697611.0,Japan,,5431277,Finance,Commercial Banks
+394,AMAT,Applied Materials Inc. Common Stock,$104.27,6.35,6.485%,88018448813.0,United States,1972.0,7241667,Technology,Semiconductors
+5902,PYPL,PayPal Holdings Inc. Common Stock,$76.48,0.21,0.275%,87189320943.0,United States,,14167910,Consumer Discretionary,Business Services
+4648,MMC,Marsh & McLennan Companies Inc. Common Stock,$170.96,4.82,2.901%,84797785146.0,United States,,1322000,Finance,Specialty Insurers
+1031,BKNG,Booking Holdings Inc. Common Stock,$2179.25,34.31,1.60%,84531773799.0,United States,,350405,Consumer Discretionary,Other Consumer Services
+132,ADI,Analog Devices Inc. Common Stock,$165.52,5.83,3.651%,84298664154.0,United States,,3483405,Technology,Semiconductors
+4682,MO,Altria Group Inc.,$46.45,1.08,2.38%,83246418106.0,United States,,7031290,Health Care, Medicinal Chemicals and Botanical Products 
+1679,CNI,Canadian National Railway Company Common Stock,$122.32,4.17,3.529%,82920728000.0,Canada,,973093,,
+7407,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,$17.66,0.57,3.335%,82367337516.0,Brazil,,31230964,Basic Materials,Metal Mining
+2399,ENB,Enbridge Inc Common Stock,$40.52,0.91,2.297%,82045678158.0,Canada,,3519448,Energy,Oil & Gas Production
+2225,DUK,Duke Energy Corporation (Holding Company) Common Stock,$105.18,1.92,1.859%,80995202359.0,United States,,2157270,Utilities,Power Generation
+6026,REGN,Regeneron Pharmaceuticals Inc. Common Stock,$737.15,13.39,1.85%,80277061385.0,United States,1991.0,602435,Health Care,Biotechnology: Pharmaceutical Preparations
+5048,NOC,Northrop Grumman Corporation Common Stock,$521.42,-7.1,-1.343%,80252876382.0,United States,,1084733,Technology,Security Systems Services
+5595,PGR,Progressive Corporation (The) Common Stock,$134.61,3.08,2.342%,78746850000.0,United States,,2116326,Finance,Property-Casualty Insurers
+6641,SO,Southern Company (The) Common Stock,$71.63,1.25,1.776%,77981634670.0,United States,,4040777,Utilities,Power Generation
+6541,SLB,Schlumberger N.V. Common Stock,$54.50,1.83,3.474%,77280660738.0,France,,10171776,Energy,Oilfield Services/Equipment
+1525,CHTR,Charter Communications Inc. Class A Common Stock New,$367.73,6.3,1.743%,75347574358.0,United States,,1086004,Consumer Discretionary,Telecommunications Equipment
+2435,EOG,EOG Resources Inc. Common Stock,$127.47,3.09,2.484%,74874539055.0,United States,,2595724,Energy,Oil & Gas Production
+3738,INFY,Infosys Limited American Depositary Shares,$17.81,0.13,0.735%,74610664374.0,India,,8915593,Technology,EDP Services
+7576,VRTX,Vertex Pharmaceuticals Incorporated Common Stock,$290.21,2.32,0.806%,74494426285.0,United States,1991.0,943550,Health Care,Biotechnology: Pharmaceutical Preparations
+3599,IBN,ICICI Bank Limited Common Stock,$21.27,0.07,0.33%,74199779744.0,India,,9134050,Finance,Commercial Banks
+5065,NOW,ServiceNow Inc. Common Stock,$366.53,0.21,0.057%,74039060000.0,United States,2012.0,2676728,Technology,Computer Software: Prepackaged Software
+910,BDX,Becton Dickinson and Company Common Stock,$259.34,4.03,1.578%,73722056377.0,United States,,1141199,Health Care,Medical/Dental Instruments
+7025,TGT,Target Corporation Common Stock,$160.15,5.89,3.818%,73718660593.0,United States,,4944230,Consumer Discretionary,Department/Specialty Retail Stores
+1757,CP,Canadian Pacific Railway Limited Common Stock,$77.53,3.04,4.081%,72112480227.0,Canada,,1618410,,
+3336,HCA,HCA Healthcare Inc. Common Stock,$254.52,4.22,1.686%,71957054484.0,United States,2011.0,1163993,Health Care,Hospital/Nursing Management
+3262,GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),$34.92,0.44,1.276%,71485056407.0,United Kingdom,2022.0,2940431,Health Care,Biotechnology: Pharmaceutical Preparations
+7357,USB,U.S. Bancorp Common Stock,$46.31,0.64,1.401%,70865504982.0,United States,,8198350,Finance,Major Banks
+4652,MMM,3M Company Common Stock,$126.72,3.76,3.058%,70043582189.0,United States,,2417142,Industrials,Consumer Electronics/Appliances
+3866,ITW,Illinois Tool Works Inc. Common Stock,$226.95,8.07,3.687%,69715948714.0,United States,,824760,Industrials,Industrial Machinery/Components
+4738,MRNA,Moderna Inc. Common Stock,$180.35,6.84,3.942%,69286947584.0,United States,2018.0,3575006,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
+492,APD,Air Products and Chemicals Inc. Common Stock,$310.18,8.36,2.77%,68856146957.0,United States,,873412,Industrials,Specialty Chemicals
+7920,ZTS,Zoetis Inc. Class A Common Stock,$147.64,2.19,1.506%,68810869342.0,United States,2013.0,1761250,Health Care,Biotechnology: Pharmaceutical Preparations
+2991,GD,General Dynamics Corporation Common Stock,$248.25,3.63,1.484%,68156779568.0,United States,,1074833,Industrials,Aerospace
+1866,CSX,CSX Corporation Common Stock,$32.20,1.29,4.173%,67697561074.0,United States,,10799358,Industrials,Railroads
+1096,BN,Brookfield Corporation Class A Limited Voting Shares,$33.27,1.17,3.645%,67409230219.0,Canada,1925.0,2028284,Consumer Discretionary,Other Consumer Services
+5481,PBR,Petroleo Brasileiro S.A.- Petrobras Common Stock,$10.28,0.15,1.481%,67047194476.0,Brazil,,17669765,Energy,Oil & Gas Production
+1090,BMO,Bank Of Montreal Common Stock,$95.13,2.34,2.522%,66904830540.0,Canada,,507247,,
+1571,CL,Colgate-Palmolive Company Common Stock,$79.98,1.44,1.833%,66800432516.0,United States,,2274474,Consumer Discretionary,Package Goods/Cosmetics
+1211,BSX,Boston Scientific Corporation Common Stock,$46.33,0.57,1.246%,66358981695.0,United States,,8980864,Health Care,Medical/Dental Instruments
+5704,PNC,PNC Financial Services Group Inc. (The) Common Stock,$164.21,4.84,3.037%,66229018409.0,United States,,2250143,Finance,Major Banks
+7720,WM,Waste Management Inc. Common Stock,$159.49,5.61,3.646%,65466992041.0,United States,,1745632,Utilities,Environmental Services
+2731,FISV,Fiserv Inc. Common Stock,$102.18,2.78,2.797%,64887168806.0,United States,1986.0,3040971,Consumer Discretionary,Business Services
+2522,ETN,Eaton Corporation PLC Ordinary Shares,$161.10,3.9,2.481%,64069470000.0,Ireland,,1732513,Industrials,Industrial Machinery/Components
+478,AON,Aon plc Class A Ordinary Shares (Ireland),$307.33,6.98,2.324%,63572112821.0,United States,,688237,Finance,Specialty Insurers
+7283,UBS,UBS Group AG Registered Ordinary Shares,$19.89,0.33,1.687%,63297013084.0,Switzerland,2014.0,2614207,Finance,Major Banks
+1375,CCI,Crown Castle Inc. Common Stock,$145.71,4.96,3.524%,63099424226.0,United States,,1923765,Real Estate,Real Estate Investment Trusts
+1635,CME,CME Group Inc. Class A Common Stock,$175.09,5.34,3.146%,62984796006.0,United States,2002.0,1950876,Finance,Investment Bankers/Brokers/Service
+2466,EQIX,Equinix Inc. Common Stock REIT,$673.94,13.32,2.016%,62365137223.0,United States,2000.0,391374,Real Estate,Real Estate Investment Trusts
+3545,HUM,Humana Inc. Common Stock,$492.54,4.52,0.926%,62355720628.0,United States,,977578,Health Care,Medical Specialities
+4819,MU,Micron Technology Inc. Common Stock,$56.77,2.06,3.765%,61946092857.0,United States,,21069764,Technology,Semiconductors
+446,AMX,America Movil S.A.B. de C.V. American Depository Receipt Series L,$19.33,0.34,1.79%,61199746500.0,Mexico,,1385870,Telecommunications,Telecommunications Equipment
+6474,SHW,Sherwin-Williams Company (The) Common Stock,$235.80,8.05,3.535%,61106017493.0,United States,,1400031,Consumer Discretionary,Paints/Coatings
+6998,TFC,Truist Financial Corporation Common Stock,$45.86,1.42,3.195%,60845501968.0,United States,,5326150,Finance,Major Banks
+4345,LRCX,Lam Research Corporation Common Stock,$445.27,28.21,6.764%,60725626941.0,United States,1984.0,1481189,Technology,Industrial Machinery/Components
+712,ATVI,Activision Blizzard Inc. Common Stock,$77.59,0.63,0.819%,60723898501.0,United States,,5443966,Consumer Discretionary,Recreational Games/Products/Toys
+26,ABB,ABB Ltd Common Stock,$32.51,0.69,2.168%,60675894521.0,Switzerland,,1487784,Energy,Electrical Products
+2657,FCX,Freeport-McMoRan Inc. Common Stock,$42.28,2.44,6.124%,60431953635.0,United States,,16483777,Basic Materials,Metal Mining
+1690,CNQ,Canadian Natural Resources Limited Common Stock,$54.53,2.53,4.865%,60366400430.0,Canada,,2095410,,
+418,AMOV,America Movil S.A.B. de C.V. Class A American Depositary Shares,$19.0447,0.3347,1.789%,60296472435.0,Mexico,,999,Telecommunications,Telecommunications Equipment
+1113,BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,$49.98,1.02,2.083%,59544972480.0,Canada,,1946435,,
+5103,NSC,Norfolk Southern Corporation Common Stock,$255.79,8.31,3.358%,59219020543.0,United States,,897057,Industrials,Railroads
+3609,ICE,Intercontinental Exchange Inc. Common Stock,$104.90,2.32,2.262%,58592065463.0,United States,2005.0,1594508,Finance,Investment Bankers/Brokers/Service
+1268,BX,Blackstone Inc. Common Stock,$79.22,2.63,3.434%,58174266659.0,United States,2007.0,4854272,Finance,Investment Managers
+5424,OXY,Occidental Petroleum Corporation Common Stock,$63.75,1.53,2.459%,57943276999.0,United States,,9832734,Energy,Oil & Gas Production
+4542,MET,MetLife Inc. Common Stock,$73.58,0.98,1.35%,57731324564.0,United States,2000.0,3890911,Finance,Life Insurance
+2397,EMR,Emerson Electric Company Common Stock,$97.95,2.94,3.094%,57036589037.0,United States,,2610988,Technology,Consumer Electronics/Appliances
+4059,KLAC,KLA Corporation Common Stock,$397.59,24.12,6.458%,56345789632.0,United States,1980.0,1423444,Technology,Electronic Components
+7152,TRI,Thomson Reuters Corp Ordinary Shares,$116.68,1.91,1.664%,55935778963.0,United States,,340096,,
+277,AIG,American International Group Inc. New Common Stock,$64.55,1.04,1.638%,55611486130.0,United States,,2893351,Finance,Life Insurance
+2059,DG,Dollar General Corporation Common Stock,$248.56,3.14,1.279%,55571752039.0,United States,2009.0,2212788,Consumer Discretionary,Department/Specialty Retail Stores
+5893,PXD,Pioneer Natural Resources Company Common Stock,$233.46,6.33,2.787%,55469800206.0,United States,,1817165,Energy,Oil & Gas Production
+6580,SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),$8.13,0.09,1.119%,55323674766.0,Japan,,4279017,Finance,Commercial Banks
+4712,MPC,Marathon Petroleum Corporation Common Stock,$116.82,1.09,0.942%,54748958511.0,United States,,3102813,Energy,Integrated oil Companies
+4489,MCK,McKesson Corporation Common Stock,$386.05,12.0,3.208%,54739372954.0,United States,,993770,Health Care,Other Pharmaceuticals
+2446,EPD,Enterprise Products Partners L.P. Common Stock,$25.00,0.37,1.502%,54389242250.0,United States,,4621390,Utilities,Natural Gas Distribution
+6031,RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),$28.36,0.73,2.642%,54293942439.0,United Kingdom,2015.0,723744,Consumer Discretionary,Business Services
+6291,SAN,Banco Santander S.A. Sponsored ADR (Spain),$3.20,0.09,2.894%,53742085069.0,Spain,,4140110,Finance,Commercial Banks
+7528,VMW,Vmware Inc. Common stock Class A,$126.14,4.41,3.623%,53663301737.0,United States,2007.0,1022847,Technology,Computer Software: Prepackaged Software
+5120,NTES,NetEase Inc. American Depositary Shares,$81.51,-0.55,-0.67%,53535617533.0,China,,2166185,Consumer Discretionary,Recreational Games/Products/Toys
+4675,MNST,Monster Beverage Corporation,$102.43,2.05,2.042%,53481289972.0,United States,,1940731,Consumer Staples,Beverages (Production/Distribution)
+4493,MCO,Moody's Corporation Common Stock,$289.70,13.01,4.702%,53073040000.0,United States,,572832,Finance,Advertising
