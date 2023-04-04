@@ -9,5 +9,5 @@ In future works we would enable the gathering of more stock tweet data involving
 
 The model itself is a Large Roberta Model gathered from [Hugging Face](https://huggingface.co/siebert/sentiment-roberta-large-english) specifically using a checkpoint so that binary classification can be enabled.
 
-![Screenshot of homepage!](https://github.com/Sean-Leishman/Stock-Sentiment-Analysis/blob/model/docs/assets/home.png?raw=true)
-![Screenshot of Apple stock page!](https://github.com/Sean-Leishman/Stock-Sentiment-Analysis/blob/model/docs/assets/apple.png?raw=true) 
+![Screenshot of homepage!](https://github.com/Sean-Leishman/Stock-Sentiment-Analysis/blob/master/docs/assets/home.png?raw=true)
+![Screenshot of Apple stock page!](https://github.com/Sean-Leishman/Stock-Sentiment-Analysis/blob/master/docs/assets/apple.png?raw=true) 
